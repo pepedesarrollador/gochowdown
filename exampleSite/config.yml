@@ -1,10 +1,10 @@
-baseURL: https://example.com
+baseURL: https://www.travelexperiencias.com
 disablePathToLower: true
-languageCode: en-us
-title: My Recipes
+languageCode: es
+title: Travelexperiencias
 theme: gochowdown
-googleAnalytics: 
-defaultcontentlanguage: en
+googleAnalytics:
+defaultcontentlanguage: es
 paginate: 20
 canonifyurls: true
 pygmentsstyle: monokai
@@ -19,26 +19,20 @@ params:
   keywords: 'recipes'
   favicon_32: /images/favicon-32x32.png
   favicon_16: /images/favicon-16x16.png
-  footercontent: 
+  footercontent:
   hidecredits: false
   hidecopyright: false
   showNavTitle: false            # Boolean: show site title in nav bar
-  custom_css: 
+  custom_css:
     - style.css
 menu:
   main:
-    - name: Home
+    - name: Inicio
       weight: 1
       url: /
     - name: Category
       weight: 2
       url: /category/
-    - name: Cuisine
-      weight: 3
-      url: /cuisine/
-    - name: Tags
-      weight: 4
-      url: /tags/
 taxonomies:
   category: category
   cusine: cuisine
