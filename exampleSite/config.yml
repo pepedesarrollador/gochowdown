@@ -20,8 +20,8 @@ params:
   favicon_32: /images/favicon-32x32.png
   favicon_16: /images/favicon-16x16.png
   footercontent:
-  hidecredits: false
-  hidecopyright: false
+  hidecredits: true
+  hidecopyright: true
   showNavTitle: false            # Boolean: show site title in nav bar
   custom_css:
     - style.css
