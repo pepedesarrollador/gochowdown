@@ -1,7 +1,6 @@
 ---
 layout: recipe
-title:  ""
-image: best-big-fat-chewy-chocolate-chip-cookie.jpg
+title:  "Reserva tu aventura"
 ---
 
 Reserva tu aventura aquí.
